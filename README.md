@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @pwd-aurelcoder
 - 👀 I’m interested in coding small programms in my free time.
 - 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me : Email: aurelvogli7@gmail.com
 
 <!---
 pwd-aurelcoder/pwd-aurelcoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
